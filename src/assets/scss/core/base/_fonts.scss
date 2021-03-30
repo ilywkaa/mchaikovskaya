@@ -1,0 +1,6 @@
+// @if ( $font--provider == 'Google Fonts' ) {
+//     @import url('https://fonts.googleapis.com/css?family=#{$font--import}&display=swap');
+// }
+@if ( $font--provider == 'Nyasha Sans' ) {
+    @import url('/src/assets/fonts/Nyasha_Sans.ttf');
+}
