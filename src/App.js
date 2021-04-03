@@ -38,9 +38,9 @@ const App = () => {
       ref={childRef}
       children={() => (
         <HashRouter basename="/">
-          <Switch>
+          {/* <Switch> */}
             <AppRoute exact path="/" component={Home} layout={LayoutDefault} />
-          </Switch>
+          {/* </Switch> */}
         </HashRouter>
       )} />
   );
