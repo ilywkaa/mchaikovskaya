@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mchaikovskaya/precache-manifest.d0211e801c9e275912582e9b4d60914a.js"
+  "/mchaikovskaya/precache-manifest.205987af80721bf13a2d0baef5ae4a7c.js"
 );
 
 self.addEventListener('message', (event) => {
