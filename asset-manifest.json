@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/mchaikovskaya/static/css/main.31d2a621.chunk.css",
+    "main.js": "/mchaikovskaya/static/js/main.40247760.chunk.js",
+    "main.js.map": "/mchaikovskaya/static/js/main.40247760.chunk.js.map",
+    "runtime-main.js": "/mchaikovskaya/static/js/runtime-main.fc27d417.js",
+    "runtime-main.js.map": "/mchaikovskaya/static/js/runtime-main.fc27d417.js.map",
+    "static/js/2.3cf8ae1d.chunk.js": "/mchaikovskaya/static/js/2.3cf8ae1d.chunk.js",
+    "static/js/2.3cf8ae1d.chunk.js.map": "/mchaikovskaya/static/js/2.3cf8ae1d.chunk.js.map",
+    "index.html": "/mchaikovskaya/index.html",
+    "precache-manifest.d0211e801c9e275912582e9b4d60914a.js": "/mchaikovskaya/precache-manifest.d0211e801c9e275912582e9b4d60914a.js",
+    "service-worker.js": "/mchaikovskaya/service-worker.js",
+    "static/css/main.31d2a621.chunk.css.map": "/mchaikovskaya/static/css/main.31d2a621.chunk.css.map",
+    "static/js/2.3cf8ae1d.chunk.js.LICENSE.txt": "/mchaikovskaya/static/js/2.3cf8ae1d.chunk.js.LICENSE.txt",
+    "static/media/Anna.jpg": "/mchaikovskaya/static/media/Anna.d17a0a7a.jpg",
+    "static/media/Natasha.jpg": "/mchaikovskaya/static/media/Natasha.a4ca333e.jpg",
+    "static/media/Pavel.jpg": "/mchaikovskaya/static/media/Pavel.2842a487.jpg",
+    "static/media/Uliana.jpg": "/mchaikovskaya/static/media/Uliana.92c4aeed.jpg",
+    "static/media/feature-tile-icon-01.svg": "/mchaikovskaya/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/mchaikovskaya/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/mchaikovskaya/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/mchaikovskaya/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/mchaikovskaya/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/mchaikovskaya/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/features-split-image-01.png": "/mchaikovskaya/static/media/features-split-image-01.d9cb99ce.png",
+    "static/media/features-split-image-02.png": "/mchaikovskaya/static/media/features-split-image-02.3c569239.png",
+    "static/media/features-split-image-03.png": "/mchaikovskaya/static/media/features-split-image-03.87e4d053.png",
+    "static/media/insta.png": "/mchaikovskaya/static/media/insta.4d4e4fb5.png",
+    "static/media/logo.svg": "/mchaikovskaya/static/media/logo.2810a88b.svg",
+    "static/media/main_photo.jpg": "/mchaikovskaya/static/media/main_photo.4610770a.jpg",
+    "static/media/tele.png": "/mchaikovskaya/static/media/tele.a8fd76de.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc27d417.js",
+    "static/js/2.3cf8ae1d.chunk.js",
+    "static/css/main.31d2a621.chunk.css",
+    "static/js/main.40247760.chunk.js"
+  ]
+}
